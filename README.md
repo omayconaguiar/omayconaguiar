@@ -13,7 +13,8 @@
 
 ### About Me 🚀
 💻 I’m a **Backend Engineer** with 4 years of professional experience. </br> </br>
-👨🏼‍💻 I'm also a **video creator** and you can check my channel about programming, here: <a href="https://www.youtube.com/user/maycon3186/videos"><img height="30px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Almost-Black-Logo.wine.svg"/></br></br>
+👨🏼‍💻 I'm also a **video creator** and you can check my channel regarding programming here: <a href="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg"/></br></br>
+
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
