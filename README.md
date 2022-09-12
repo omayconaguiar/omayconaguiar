@@ -16,7 +16,7 @@
 👨🏼‍💻 I'm also a **video creator** and you can check my channel about programming, here: </br></br>
 <div align="center">
   <a href="https://www.youtube.com/user/maycon3186/videos">
-  <img height="180em" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Almost-Black-Logo.wine.svg"/>
+  <img height="26px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Almost-Black-Logo.wine.svg"/>
 </div>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
